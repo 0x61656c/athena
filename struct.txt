@@ -1,0 +1,22 @@
+xprint("Hello")
+exit()
+
+url_weather = ""
+
+def connect(url):
+	pass
+
+def getWeather():
+	connect(url_weather)
+	a = get(page_info_1)
+	return a
+
+def addToCalendar(event):
+	input("What query would you like to attempt?")
+	calendar_api.connect()
+	
+
+if __name__ == "__main__":
+	main()
+
+#protocol as a keyword
