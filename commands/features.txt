@@ -1,0 +1,12 @@
+Features
+
+Athena is programmed to handle a variety of inputs with high accuracy. 
+These inputs are designed to be similar to the functionality offered by other
+virtual assistants, and include things like
+
+#Maintaining a Kanban, with boards for events, meetings, and assignments
+#Telling jokes
+#Playing music
+#Calculations
+#Hiding bodies
+

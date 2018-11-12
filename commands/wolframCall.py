@@ -9,7 +9,7 @@ def wolframQuery(_input, _appid = "L4YVH6-HPV69WKAWQ"):
 		(next(res.results).text)
 		return str((next(res.results).text))
 	except:
-		return "Input failed."
+		return None
 	
 
 def testWolframQuery():
